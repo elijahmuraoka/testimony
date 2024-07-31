@@ -11,7 +11,7 @@
 -   Additionally, growing up I had often practiced prayer, but the way it was practiced by those around me seemed more transactional than relational. Everyday I would show gratitude in my prayer which I have always believed to be extremely important, but immediately after I would just ask for whatever I needed for myself or others whether it was health, wealth, happiness, etc.
 -   And in no way am I saying that asking God during times of need is a bad thing. But it was only until nearly a decade later when I realized that God wasn't some magical genie or like Santa Claus, but rather a personal father who wants to have a relationship with us -- not only looking to him when we need something.
 
-## How I came to know Christ and how did he change my life?
+## How I came to know Christ.
 
 -   In reality, my story wasn't any miraculous, life-altering event, waking up one day all of a sudden and believing.
 -   I had rejected Christ time and time again -- initially just by skipping Church for sports matches, but over time I chose to ignore him in all parts of my life as it seemed more like an inconvenience to have this supernatural party-pooper watching over me all the time.
@@ -34,7 +34,7 @@
     -   "Have you believed because you have seen me? Blessed are those who have not seen and yet have believed."
     -   None of us have had the opportunity to see the miracles of Jesus in the flesh, but Jesus explains that is what makes our faith so special.
 
-## Who am I now and how do I plan to live out my life for God? + "Personal Prayer"
+## How did he change my life? + Personal Prayer
 
 -   In reality, my life didn't start changing once I had fully accepted Christ. It started changing once I finally began to understand Him.
 -   I have opened my eyes to so many broken areas of my life and started addressing each of them one by one.
@@ -47,12 +47,21 @@
 
 > Dear Heavenly Father,
 >
-> I want to thank you for this beautiful day that I can share with many of my family and friends. Thank you for accepting me into your kingdom and loving me, knowing well how broken I am. I want others to experience that same kind of unconditional love you have showed me. Lord, please use me as your vessel to display your righteousness, glory, and spread your eternal word. And if I am ever on a false path, I pray that you correct me so that I know better. When I am lost, I will confide in you and I pray that you will provide me with your wisdom so that I may understand and move forward with you.
+> I want to thank you for this beautiful day that I can share with many of my family and friends. Thank you for accepting me into your kingdom and loving me, knowing well how broken I am. I am sorry to have rejected you time and time again in the past, living as a complete hypocrite, even when you would have welcomed me with open arms. I hope I can encourage others so that they may experience the same kind of unconditional love you have shown me. Lord, please imbue me with your spirit and use me as your vessel to display your righteousness, glory, and spread your eternal word. And if I am ever on a false path, I pray that you correct me so that I know better. When I am lost, I will confide in you and I pray that you will provide me with your wisdom so that I may understand and move forward with you.
 > Thank you again for allowing me to share such a special moment with my brothers Mike and Aden such that we will follow and honor you in all the rest of our days on this earth.
 >
 > In Jesus' name we pray,
 >
 > Amen.
+
+To close, I want to thank several individuals who have profoundly influenced my relationship with Christ.
+
+-   My parents
+-   Sam and Linda Song, David Lee, and Wilson Bui + the rest of the Reclaimer Community
+-   Andrew Dawson
+-   Logan Horita
+-   Michael Long
+-   Aden Lu
 
 ---
 
