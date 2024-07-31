@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Elijah Muraoka's Testimony</title>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    </head>
+    <body>
+        <div id="testimony-content" style="padding: 40px"></div>
+        <script async>
+            console.log('Fetching Markdown file...');
+            fetch('./testimony.md')
+                .then((response) => {
+                    console.log('Response received:', response);
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.text();
+                })
+                .then((markdown) => {
+                    const htmlContent = marked.parse(markdown);
+                    document.getElementById('testimony-content').innerHTML =
+                        htmlContent;
+                    console.log('HTML content set');
+                })
+                .catch((error) => {
+                    console.error('Error:', error);
+                });
+        </script>
+    </body>
+</html>
