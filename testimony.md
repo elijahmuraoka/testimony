@@ -25,7 +25,7 @@
     -   Do people who were never given the change to know Jesus go to Hell?
     -   There are so many other religions, how can I trust this one is absolute over the others?
 -   I thought I wasn't fit to be called a believer because of all these doubts. On my 20th birthday, one of my best friends Andrew Dawson, gave me a book called, "101 Secrets for your Twenties"
-    -   There is a quote about not being afraid of your questions and doubts because that's what makes you human.
+    -   Secret #26 changed my perspective - “Our imperfections, doubts, and questions about faith don’t make us unfaithful freaks — they make us human.”.
 -   Slowly but surely, I began to build my understanding of Christ searching relentlessly for answers to my questions.
     -   Last year, Linda Song, who knew of my quest for knowledge, lended me a book, "Give Me an Answer" by Cliff Knechtle.
     -   Last summer, I read that book nearly everyday looking into every question in-depth.
@@ -36,12 +36,15 @@
 
 ## How did he change my life? + Personal Prayer
 
--   In reality, my life didn't start changing once I had fully accepted Christ. It started changing once I finally began to understand Him.
+-   In reality, my life didn't start changing once I had fully believed in Christ. It started changing once I finally began to understand and trust Him.
 -   I have opened my eyes to so many broken areas of my life and started addressing each of them one by one.
--   I am in no way perfect.
+-   I am nowhere near perfect.
 -   I am still fighting against temptation and evil everyday -- pride, lust, anger, laziness, etc.
--   I recognize that I am a sinner.
--   But more importantly, I recognize that I am a child of God and he still loves me no matter what.
+-   I recognize that I am a sinner and deserve death.
+
+-   But more importantly, I recognize that Jesus Christ has paid this price for me on the cross.
+-   And there is no amount of "good deeds" which I could do in this life to earn a ticket into heaven, but only through my decision to follow Christ and His boundless grace by which I am saved.
+-   I am a child of God and he loves me unconditionally. As such, it is my duty to love God, and love others so that they too may receive this gift of salvation.
 
 <br>
 
