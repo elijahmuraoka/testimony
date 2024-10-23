@@ -25,7 +25,7 @@
     -   Do people who were never given the change to know Jesus go to Hell?
     -   There are so many other religions, how can I trust this one is absolute over the others?
 -   I thought I wasn't fit to be called a believer because of all these doubts. On my 20th birthday, one of my best friends Andrew Dawson, gave me a book called, "101 Secrets for your Twenties"
-    -   Secret #26 changed my perspective - “Our imperfections, doubts, and questions about faith don’t make us unfaithful freaks — they make us human.”.
+    -   Secret #26 changed my perspective - “Our imperfections, doubts, and questions about faith don’t make us unfaithful freaks — they make us human.”
 -   Slowly but surely, I began to build my understanding of Christ searching relentlessly for answers to my questions.
     -   Last year, Linda Song, who knew of my quest for knowledge, lended me a book, "Give Me an Answer" by Cliff Knechtle.
     -   Last summer, I read that book nearly everyday looking into every question in-depth.
